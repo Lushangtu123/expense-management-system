@@ -1,0 +1,6 @@
+expense-management-system/
+├── app.py               # Flask app code
+├── requirements.txt     # Project dependencies
+├── templates/
+│   └── index.html       # HTML for views
+└── tests/               # Directory for test cases
